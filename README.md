@@ -1,2 +1,3 @@
-# devopstraining-lfs261-skillsjournal
-skillsjournal assignment
+Skills Journal test
+
+This is but a test
